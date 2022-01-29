@@ -2,7 +2,7 @@
 
 ## 数学
 
-* [张宇三十讲](https://www.bilibili.com/video/BV18S4y1j)
+* [张宇三十讲](https://www.bilibili.com/video/BV1wq4y1w7mW)
 
 ## 英语
 
