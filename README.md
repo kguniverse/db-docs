@@ -3,7 +3,7 @@
 [考研复习资料](pee.md)
 
 
-# 前端技术学习
+## 前端技术学习
 
 * [ant design pro 脚手架](https://pro.ant.design/zh-CN/docs)
 
