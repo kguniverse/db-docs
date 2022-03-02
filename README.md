@@ -20,3 +20,17 @@
 ## rust
 
 * [rust实现操作系统](https://os.phil-opp.com/zh-CN/)
+
+
+## 大数据技术基础
+
+* [macos安装Hadoop](https://towardsdatascience.com/installing-hadoop-on-a-mac-ec01c67b003c)
+
+
+## 操作系统课程设计
+
+* 南京大学操作系统设计
+
+    [网课](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498)
+    [guidelines](http://jyywiki.cn/OS/2022/)
+    [demo参考](https://github.com/doowzs/OS2019-Labs)
